@@ -1,73 +1,147 @@
 <div align="center">
 
-# Hi, I'm Sanjarbek Saminjonov 👋
+  <!-- Header Wave / Title -->
+  <h1>Hey there, I'm <span style="color: #38BDF8;">Sanjarbek Saminjonov</span> 👋</h1>
+  
+  <p><strong>Full-Stack Developer</strong> from Fergana, Uzbekistan 🇺🇿</p>
 
-### Full-Stack Developer from Fergana, Uzbekistan
+  <!-- Typing SVG Banner -->
+  <a href="https://sanjarbeks-portfolio.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Building+high-performance+modern+web+apps;Next.js+%E2%80%A2+NestJS+%E2%80%A2+React+%E2%80%A2+TypeScript;Turning+ideas+into+polished+digital+products;Available+for+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Turning+ideas+into+useful+products;Always+learning%2C+always+creating)](https://git.io/typing-svg)
+  <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_my_website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjarbeks-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjarbekweb)
-
-</div>
-
-## 👨‍💻 About me
-
-- 🔭 I build full-stack web applications and interactive digital experiences
-- 🎨 I enjoy combining reliable engineering with polished interface design
-- 🌱 I am always exploring better tools, patterns, and development workflows
-- ⚡ I care about performance, maintainable code, and useful products
-- 📍 Based in Fergana, Uzbekistan
-
-## 🛠️ Technologies
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+  <!-- Status & Quick Badges -->
+  <a href="https://sanjarbeks-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjarbek-saminjonov-3b9302371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://t.me/Node0814_10" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Chat%20with%20me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+  <a href="https://github.com/sanjarbekweb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 
 </div>
 
-## 🚀 Featured projects
+<br/>
+
+---
+
+### 👨‍💻 About Me
+
+```javascript
+const sanjarbek = {
+  pronouns: "he/him",
+  location: "Fergana, Uzbekistan 🇺🇿",
+  role: "Full-Stack Developer",
+  code: ["TypeScript", "JavaScript", "React", "Next.js", "Node.js", "NestJS"],
+  architecture: ["REST APIs", "WebSockets", "Microservices", "Component-Driven UI"],
+  databases: ["PostgreSQL", "MongoDB"],
+  currentFocus: "Architecting responsive, high-speed & user-centric web applications",
+  funFact: "Clean code and smooth UI micro-interactions make my day ✨"
+};
+```
+
+- 🔭 **What I Do**: I build end-to-end web applications—combining responsive, accessible interfaces with fast, resilient backend services.
+- 🌱 **Growth Mindset**: Constantly expanding my knowledge in scalable architectures, cloud deployments, and web performance optimization.
+- 💼 **Available For**: Full-time opportunities, freelance projects, and creative collaborations.
+- 🎯 **Portfolio**: Explore my live work at [sanjarbeks-portfolio.vercel.app](https://sanjarbeks-portfolio.vercel.app/).
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-<a href="https://github.com/sanjarbekweb/auth-fullstack">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=auth-fullstack&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Auth Fullstack repository" />
-</a>
-<a href="https://github.com/sanjarbekweb/real-time-chat-app">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=real-time-chat-app&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Real-time Chat App repository" />
-</a>
-<a href="https://github.com/sanjarbekweb/dev-portfolio-x">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=dev-portfolio-x&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Dev Portfolio X repository" />
-</a>
-<a href="https://github.com/sanjarbekweb/noircoffeeshop">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=noircoffeeshop&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Noir Coffee Shop repository" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,tailwind,bootstrap,vite,html,css,git,github,figma,postman,vercel" alt="Tech Stack Icons" />
+  </a>
 </div>
 
-## 📊 GitHub activity
+<br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Workflow & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🤖 Text-to-Image AI Platform** | AI-driven image generation platform with intuitive prompt editing & gallery | `Next.js` `AI API` `Tailwind` | [Repository](https://github.com/sanjarbekweb/text-to-img-platform) |
+| **💬 Real-Time Chat App** | Scalable instant messaging system with live rooms & presence detection | `React` `Socket.io` `Node.js` `Express` | [Repository](https://github.com/sanjarbekweb/real-time-chat-app) |
+| **🌐 Personal Portfolio Platform** | Interactive developer portfolio featuring dynamic animations and responsive layout | `React` `Tailwind CSS` `Vite` | [Live Demo](https://sanjarbeks-portfolio.vercel.app/) · [Repository](https://github.com/sanjarbekweb/portfolio-p) |
+| **🔒 Full-Stack Authentication** | Secure authentication engine with JWT tokens, session handling & validation | `Node.js` `Express` `MongoDB` | [Repository](https://github.com/sanjarbekweb/auth-fullstack) |
+| **🎓 Feedback School** | Web application for managing and submitting structured educational feedback | `TypeScript` `React` `Tailwind` | [Repository](https://github.com/sanjarbekweb/feedbackschool) |
+| **✨ Zentry 3D Experience** | Immersive gaming/lifestyle landing clone with GSAP-powered micro-interactions | `React` `GSAP` `Tailwind CSS` | [Live Demo](https://zentry-clone-lilac.vercel.app/) · [Repository](https://github.com/sanjarbekweb/dev-portfolio-x) |
+
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjarbekweb&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Sanjarbek's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarbekweb&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Sanjarbek's most-used languages" />
-
-![GitHub contribution streak](https://streak-stats.demolab.com?user=sanjarbekweb&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B)
+  <a href="https://github.com/sanjarbekweb/auth-fullstack">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=auth-fullstack&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Auth Fullstack repository" />
+  </a>
+  <a href="https://github.com/sanjarbekweb/real-time-chat-app">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=real-time-chat-app&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Real-time Chat App repository" />
+  </a>
+  <br/>
+  <a href="https://github.com/sanjarbekweb/portfolio-p">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=portfolio-p&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Portfolio repository" />
+  </a>
+  <a href="https://github.com/sanjarbekweb/feedbackschool">
+    <img height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=sanjarbekweb&repo=feedbackschool&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Feedback School repository" />
+  </a>
 
 </div>
 
 ---
 
+### 📊 GitHub Activity & Analytics
+
 <div align="center">
 
-### Let's build something great.
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjarbekweb&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&rank_icon=github" alt="Sanjarbek's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjarbekweb&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Most Used Languages" />
 
-[View my portfolio](https://sanjarbeks-portfolio.vercel.app/) · [Explore my repositories](https://github.com/sanjarbekweb?tab=repositories)
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=sanjarbekweb&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+I'm always open to discussing new engineering opportunities, creative projects, or simply exchanging ideas.
+
+<div align="center">
+
+  <a href="https://sanjarbeks-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjarbek-saminjonov-3b9302371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjarbek%20Saminjonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Node0814_10" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40Node0814__10-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/a1zen_hado_99/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40a1zen__hado__99-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <br/><br/>
+
+  <sub>Designed with ❤️ by <strong><a href="https://github.com/sanjarbekweb">Sanjarbek Saminjonov</a></strong></sub>
 
 </div>
